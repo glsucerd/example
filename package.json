@@ -4,7 +4,7 @@
   "description": "example",
   "main": "app-server.js",
   "dependencies": {
-    "ws": "1.1.x",
+    "ws": "1.1.x"
   },
   "engine": {
     "node": "*",
