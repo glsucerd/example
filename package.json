@@ -1,0 +1,14 @@
+{
+  "name": "example",
+  "version": "0.0.1",
+  "description": "example",
+  "main": "app-server.js",
+  "dependencies": {},
+  "engine": {
+    "node": "*",
+    "npm": "*"
+  },
+  "scripts": {
+    "start": "node app-server.js"
+  }
+}
