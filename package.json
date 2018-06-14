@@ -3,7 +3,9 @@
   "version": "0.0.1",
   "description": "example",
   "main": "app-server.js",
-  "dependencies": {},
+  "dependencies": {
+    "ws": "1.1.x",
+  },
   "engine": {
     "node": "*",
     "npm": "*"
